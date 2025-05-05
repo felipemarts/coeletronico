@@ -43,7 +43,7 @@ function MapaColeta() {
   const mapRef = useRef();
 
   useEffect(() => {
-    fetch('/coeletronico/pontos.json')
+    fetch(`${import.meta.env.BASE_URL}pontos.json`)
       .then(res => res.json())
       .then(data => {
         setRawData(data);

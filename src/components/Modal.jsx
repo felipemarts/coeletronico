@@ -45,6 +45,18 @@ const Modal = ({
           Este mapa mostra pontos oficiais para o descarte correto de lixo eletrônico, pilhas, lâmpadas e toners.<br />
           Contribua com o meio ambiente destinando resíduos em locais apropriados!
         </div>
+        { /* Convite para contribuir */}
+        <div style={{
+          background: "#f7fdf8",
+          border: "1px solid #bae8cc",
+          borderRadius: 7,
+          padding: "8px 12px",
+          fontSize: "0.98em",
+          margin: "16px 0 10px 0",
+          color: "#164f32"
+        }}>
+          <b>Quer ajudar?</b> Você pode <a href="https://github.com/felipemarts/coeletronico" target="_blank" rel="noopener">contribuir</a> com novos pontos de coleta ou sugestões! 💡
+        </div>
 
         {locationError ? (
           <div style={{ color: "red", margin: "18px 0 15px 0", fontWeight: 600, fontSize: 16 }}>
