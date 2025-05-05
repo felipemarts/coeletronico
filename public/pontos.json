@@ -1,0 +1,1099 @@
+[
+  {
+    "tipo": "Electronico",
+    "itens": [
+      {
+        "Região": "Águas Claras",
+        "Endereço": "UNIEURO - Av. das Castanheiras S/N Lote 3.700 – Águas Claras",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8318646,
+        "longitude": -48.0370009
+      },
+      {
+        "Região": "Águas Claras",
+        "Endereço": "Vitrinni Shopping Águas Claras - Av. Castanheiras, entre a Rua 13 e 14 Norte",
+        "Contato": "",
+        "Empresa": "Zero Impacto E-reciclagem",
+        "latitude": -15.8369541,
+        "longitude": -48.0198321
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "Ecomercado Bioon - CLN 303, bl. B, lj. 6",
+        "Contato": "3326-2944",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.7805752,
+        "longitude": -47.8851616
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "Posto Jarjour Asa Norte - SHCN SQ 206 - Eixo L (Exinho de baixo)",
+        "Contato": "",
+        "Empresa": "Zero Impacto E-reciclagem",
+        "latitude": -15.768676,
+        "longitude": -47.8817657
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "Conserto Minuto - SCN Q5 bl A",
+        "Contato": "3034-1441",
+        "Empresa": "E-cycle",
+        "latitude": -15.7867689,
+        "longitude": -47.8892251
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "RestauraCar Brasília Shopping - Setor Comercial Norte Quadra 5",
+        "Contato": "",
+        "Empresa": "Zero Impacto E-reciclagem",
+        "latitude": -15.8084245,
+        "longitude": -47.9606945
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "RestauraCar 305 Norte - SQN 305 Norte, Posto de Combustível Petrobras",
+        "Contato": "",
+        "Empresa": "Zero Impacto E-reciclagem",
+        "latitude": -15.7761369,
+        "longitude": -47.8785719
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "Igreja Messiânica - EQN 315/316",
+        "Contato": "3340-8696",
+        "Empresa": "E-cycle",
+        "latitude": -15.7566325,
+        "longitude": -47.886396
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "Agência Nacional das Águas - ANA - S.I.A. Trecho 4, lt 370, Ed. Sotreq, sala 118",
+        "Contato": "2109-5400",
+        "Empresa": "E-cycle",
+        "latitude": -15.8092991,
+        "longitude": -47.9496447
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "UNIEURO - St. De Grandes Áreas Norte 916",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8378655,
+        "longitude": -47.97638
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "Rede Primetek - SEPN 511 conj. A",
+        "Contato": "3022-3250",
+        "Empresa": "E-cycle",
+        "latitude": -15.7556956,
+        "longitude": -47.893193
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "BRASAS English Course Asa Norte - SCLN 111 Bloco A 2º andar",
+        "Contato": "",
+        "Empresa": "Zero Impacto E-reciclagem",
+        "latitude": -15.7806645,
+        "longitude": -47.8820668
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "Posto Jarjour Asa Sul - SHCS SQ 210 - Eixo L (Eixinho de baixo)",
+        "Contato": "",
+        "Empresa": "Zero Impacto E-reciclagem",
+        "latitude": -15.8231306,
+        "longitude": -47.9084351
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "Posto dos Anões - SQS 315 - pl - L",
+        "Contato": "",
+        "Empresa": "Zero Impacto E-reciclagem",
+        "latitude": -15.8286149,
+        "longitude": -47.9229527
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "Sesc Estação 504 Sul (DF) - W3 Sul Quadra 504/505 Bloco A - Asa Sul",
+        "Contato": "3217-9101",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8064025,
+        "longitude": -47.8984505
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "Sesc 913 Sul (DF) - SEPS Q 713/913 Quadra 713/913",
+        "Contato": "3445-4401",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8204559,
+        "longitude": -47.9222236
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "Sesc Presidente Dutra (DF) - ESCS - Quadra 02, Bloco C Lote 227, Ed. Presidente Dutra",
+        "Contato": "3319-4410",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.7972766,
+        "longitude": -47.8866962
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "Fecomércio DF (Federação do Comércio do Distrito Federal) - Setor Comercial Sul Q. 6",
+        "Contato": "3038-7500",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.7964039,
+        "longitude": -47.8906547
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "Posto BR 214 - 214 Asa Sul",
+        "Contato": "",
+        "Empresa": "Zero Impacto E-reciclagem",
+        "latitude": -15.8307924,
+        "longitude": -47.9190966
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "UDF - 704/904 sul",
+        "Contato": "3003-1189",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8026769,
+        "longitude": -47.8994031
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "UNIEURO - St. De Clubes Esportivos Sul Trecho 0 Conjunto 05",
+        "Contato": "3442-8000",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8438664,
+        "longitude": -47.915759
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "CENTRO CLÍNICO VIA BRASIL - 710/910 Sul",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8139938,
+        "longitude": -47.913173
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "KALANGO HACKER CLUBE - Entrequadra 310 sul",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.7730073,
+        "longitude": -47.8761631
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "SINDICATO DOS BANCÁRIOS - SHCS EQS 514/515",
+        "Contato": "3262-9090",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.826233,
+        "longitude": -47.9236642
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "Victoria Cartuchos - SCS q. 2 bl C",
+        "Contato": "3321-4579",
+        "Empresa": "E-cycle",
+        "latitude": -15.7976764,
+        "longitude": -47.8881495
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "BRASAS English Course Asa Sul - SHC/SUL EQS 110/111 Bloco A Lojas 1-4/12-15",
+        "Contato": "",
+        "Empresa": "Zero Impacto E-reciclagem",
+        "latitude": -15.8216243,
+        "longitude": -47.9103321
+      },
+      {
+        "Região": "Brazlândia",
+        "Endereço": "Lixo eletrônico Brasília*",
+        "Contato": "98513-9817",
+        "Empresa": "Lixo eletrônico Brasília",
+        "latitude": -15.7810085,
+        "longitude": -48.0328749
+      },
+      {
+        "Região": "Ceilândia",
+        "Endereço": "SESC CEILÂNDIA - QNN 27 Área Especial, LOTE B, Ceilândia NORTE",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8203057,
+        "longitude": -48.1223881
+      },
+      {
+        "Região": "Ceilândia",
+        "Endereço": "St. M QNM 28",
+        "Contato": "3373-1810",
+        "Empresa": "Recicle a Vida",
+        "latitude": -15.811188,
+        "longitude": -48.0988894
+      },
+      {
+        "Região": "Cruzeiro",
+        "Endereço": "GINÁSIO DE ESPORTES DO CRUZEIRO - 609 - Cruzeiro Novo",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.7923651,
+        "longitude": -47.9393058
+      },
+      {
+        "Região": "Gama",
+        "Endereço": "SESC GAMA - Setor Leste Industrial, Quadra 1, Lotes 620, 640, 660, e 680",
+        "Contato": "3484-9121/91019140",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -16.0103825,
+        "longitude": -48.0595092
+      },
+      {
+        "Região": "Guará",
+        "Endereço": "SESC SEDE LOGÍSTICA - SIA Trecho 4, Lotes 1.150/1.160/1.170 - SUL",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8367696,
+        "longitude": -48.0045421
+      },
+      {
+        "Região": "Guará",
+        "Endereço": "ADMINISTRAÇÃO DO GUARÁ - SRIA II QE 25 – GUARÁ II",
+        "Contato": "3383-7200",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8253948,
+        "longitude": -47.9755628
+      },
+      {
+        "Região": "Guará",
+        "Endereço": "S.I.A Trecho 17 - Guará *",
+        "Contato": "3368-2644",
+        "Empresa": "S.I.A. Recicla",
+        "latitude": -15.7970442,
+        "longitude": -47.9607182
+      },
+      {
+        "Região": "Guará",
+        "Endereço": "Sesc Sede Administrativa (DF) - SIA Trecho 2 Lote 1130 - Guará",
+        "Contato": "3218-9145",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8055244,
+        "longitude": -47.9620838
+      },
+      {
+        "Região": "Guará",
+        "Endereço": "Sesc Guará (DF) - QE 04 Área Especial A - Guará I",
+        "Contato": "3383-9101",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.818136,
+        "longitude": -47.9840076
+      },
+      {
+        "Região": "Guará",
+        "Endereço": "Sede Zero Impacto - QE 40 Rua 12 lote 09, Guará II, Brasília.",
+        "Contato": "",
+        "Empresa": "Zero Impacto E-reciclagem",
+        "latitude": -15.8466212,
+        "longitude": -47.9809397
+      },
+      {
+        "Região": "Lago Norte",
+        "Endereço": "ADMINISTRAÇÃO DO LAGO NORTE - SHIN CA 5- Lago Norte",
+        "Contato": "3468-9400",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.7219919,
+        "longitude": -47.8813914
+      },
+      {
+        "Região": "Lago Sul",
+        "Endereço": "HelioDiff - SHIS QL 08, cj 01, cs 03",
+        "Contato": "",
+        "Empresa": "Zero Impacto E-reciclagem",
+        "latitude": -15.8443946,
+        "longitude": -47.8948882
+      },
+      {
+        "Região": "Lago Sul",
+        "Endereço": "Academia ClubeCoat Fitness & Squash - SCES Trecho 3 Lote 3 Conjunto 5 Parte A - Brasília",
+        "Contato": "",
+        "Empresa": "Zero Impacto E-reciclagem",
+        "latitude": -15.8143177,
+        "longitude": -47.8562049
+      },
+      {
+        "Região": "Samambaia",
+        "Endereço": "SESC LER SAMAMBAIA - Quadra 101, Conjunto 01, Lote 01",
+        "Contato": "3458-8732/8644/8176",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8762625,
+        "longitude": -48.0891241
+      },
+      {
+        "Região": "Sobradinho",
+        "Endereço": "BIBLIOTECA DE SOBRADINHO I - Quadra Central – LOTE A – Setor Administrativo",
+        "Contato": "3453-9101",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.6435176,
+        "longitude": -47.8255398
+      },
+      {
+        "Região": "Sobradinho",
+        "Endereço": "Informática do Júnior - Condomínio RK (Entrada) Sobradinho DF, Brasília.",
+        "Contato": "",
+        "Empresa": "Zero Impacto E-reciclagem",
+        "latitude": -15.6921234,
+        "longitude": -47.8261459
+      },
+      {
+        "Região": "Sudoeste",
+        "Endereço": "BRASAS English Course Sudoeste - SHC/S CLSW 304 Bloco C Subsolo",
+        "Contato": "",
+        "Empresa": "Zero Impacto E-reciclagem",
+        "latitude": -15.8023899,
+        "longitude": -47.9289718
+      },
+      {
+        "Região": "Sudoeste",
+        "Endereço": "ADMINISTRAÇÃO DO SUDOESTE - SIG Quadra 06 Lote 1.425",
+        "Contato": "3343-4901",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.7938037,
+        "longitude": -47.9153679
+      },
+      {
+        "Região": "Taguatinga",
+        "Endereço": "Posto Jarjour Taguatinga - CSB 08 lotes 01/05 (Próximo à EPTG)",
+        "Contato": "",
+        "Empresa": "Zero Impacto E-reciclagem",
+        "latitude": -15.8402559,
+        "longitude": -48.0505903
+      },
+      {
+        "Região": "Taguatinga",
+        "Endereço": "Módulo de Educação e Cultura MEC - CNB 12, AE 2/3",
+        "Contato": "3451-9160/9157",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8274588,
+        "longitude": -48.066943
+      },
+      {
+        "Região": "Taguatinga",
+        "Endereço": "SESC Taguatinga Norte - CNB 12, AE 2/3",
+        "Contato": "3451-9121/9111",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8194322,
+        "longitude": -48.0623974
+      },
+      {
+        "Região": "Taguatinga",
+        "Endereço": "Sesc Taguatinga Sul - QSF Sul Área Especial 3 - Taguatinga Sul",
+        "Contato": "3451-3502",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.86656,
+        "longitude": -48.0370156
+      },
+      {
+        "Região": "Taguatinga",
+        "Endereço": "CENTRO UNIVERSITÁRIO PROJEÇÃO – UNIDADE P4 - Setor B Norte, Taguatinga Norte",
+        "Contato": "3451-3877",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8202857,
+        "longitude": -48.065387
+      },
+      {
+        "Região": "Taguatinga",
+        "Endereço": "Universidade Católica de Brasília - QS 07, Lote 01, EPCT",
+        "Contato": "",
+        "Empresa": "Zero Impacto E-reciclagem",
+        "latitude": -15.8651094,
+        "longitude": -48.0301378
+      },
+      {
+        "Região": "Varjão",
+        "Endereço": "Área Especial - Varjão",
+        "Contato": "99280-5328",
+        "Empresa": "CRV",
+        "latitude": -15.7096917,
+        "longitude": -47.877997
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "Ar Netto Comércio de Ar Condicionado LTDA EEP",
+        "Contato": "(61) 3340-1407",
+        "Empresa": "ST SHCGN CLR Quadra 709 Bloco B Loja - 46, Asa Norte",
+        "latitude": -15.7624393,
+        "longitude": -47.8920266
+      },
+      {
+        "Região": "Clientes LG",
+        "Endereço": "LGC Service Center Brasília",
+        "Contato": "(61) 4004-5400",
+        "Empresa": "Edifício Number One - Loja 109 - Setor Comercial Norte Q 1",
+        "latitude": -15.7845311,
+        "longitude": -47.9775201
+      },
+      {
+        "Região": "Clientes LG",
+        "Endereço": "Nacional",
+        "Contato": "(61) 3021-8822",
+        "Empresa": "CND 02 - Lote 07, Loja 02, Taguatinga Norte",
+        "latitude": -15.8338864,
+        "longitude": -48.0681042
+      },
+      {
+        "Região": "Clientes LG",
+        "Endereço": "RPM",
+        "Contato": "(61) 3245-2424",
+        "Empresa": "CLS 312 Bloco D LJ 24, Asa Sul",
+        "latitude": -14.4095261,
+        "longitude": -51.31668
+      }
+    ]
+  },
+  {
+    "tipo": "Pontos Restrito de Eletrônicos",
+    "itens": [
+      {
+        "Região": "Asa Norte",
+        "Endereço": "BANCO DO BRASIL - Edifício Sede IV - STN 716",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.7687395,
+        "longitude": -47.8866713
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "SERPRO - Edifício Sede : SGAN 801",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.7856847,
+        "longitude": -47.8715479
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "SERPRO - Edifício Regional Brasília: SGAN Quadra 601 Módulo G",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.7856847,
+        "longitude": -47.8715479
+      },
+      {
+        "Região": "Esplanada",
+        "Endereço": "Ministério do Trabalho e Previdência Social - Esplanada dos Ministérios, Bloco F, Anexo",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.7996255,
+        "longitude": -47.8690756
+      },
+      {
+        "Região": "Esplanada",
+        "Endereço": "Superior Tribunal Federal - Praça dos Três Poderes",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8049948,
+        "longitude": -47.8700749
+      },
+      {
+        "Região": "Esplanada",
+        "Endereço": "Senado Federal - Praça dos Três Poderes",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.796145,
+        "longitude": -47.8626717
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "Ministério de Ciência e Tecnologia – Esplanada de Ciência e Tecnologia Bloco R",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8081525,
+        "longitude": -47.9042128
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "Agência Nacional de Águas – Setor Policial Sul",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8163257,
+        "longitude": -47.944932
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "Polícia Rodoviária Federal – Setor Policial Sul",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8143667,
+        "longitude": -47.9452117
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "BID – Banco Interamericano de Desenvolvimento - Quadra 802 Conjunto 07 Lote 39 Setor de Embaixadas",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.7810109,
+        "longitude": -47.8693166
+      },
+      {
+        "Região": "Guará",
+        "Endereço": "BANCO DO BRASIL - Edifício Sede VI - SIA Trecho 2",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.8049774,
+        "longitude": -47.9548112
+      },
+      {
+        "Região": "Valparaíso de Goiás",
+        "Endereço": "Condomínio Flores do Cerrado – Próximo a BR 040",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.9350797,
+        "longitude": -48.0029717
+      },
+      {
+        "Região": "Valparaíso de Goiás",
+        "Endereço": "Condomínio Green Park I",
+        "Contato": "",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -16.0676127,
+        "longitude": -47.9771543
+      },
+      {
+        "Região": "Luziânia",
+        "Endereço": "CONSELHO TUTELAR LUZIÂNIA – JARDIM INGÁ - Rua Brasília, Qd 58 casa 10 Jardim Ingá",
+        "Contato": "3623-7856",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -16.1393911,
+        "longitude": -47.9546484
+      },
+      {
+        "Região": "Val Paraíso",
+        "Endereço": "ESTAÇÃO DE METARRECICLAGEM – Área Especial, Lote 02 Etapa “B” – antigo Ginásio de Esportes",
+        "Contato": "3223-8996",
+        "Empresa": "Estação Metareciclagem",
+        "latitude": -15.9138893,
+        "longitude": -47.9953128
+      }
+    ]
+  },
+  {
+    "tipo": "Lampadas",
+    "itens": [
+      {
+        "Região": "Brasília",
+        "Endereço": "SR ACABAMENTOS E MATERIAIS PARA CONSTRUÇÃO LTDA - SHC/N CL QD 404 - BL A - LJ 02",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.7734552,
+        "longitude": -47.8773154
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "CARREFOUR COMERCIO E INDUSTRIA LTDA - St. Setor Terminal Norte Lote J",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.8908322,
+        "longitude": -47.9636569
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "FERCON FERRAGENS E MAT. DE CONST. LTDA - SHIN Centro de Atividades 07 Lote 28, 29 e 30",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.763888,
+        "longitude": -47.895185
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "LEROY MERLIN COMPANHIA BRASILEIRA DE BRICOLAGEM - SOF/N ÁREA ESPECIAL CONJUNTO A LOJA N°02",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.793838,
+        "longitude": -47.9394316
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "SARKIS & SARKIS LTDA - SCL/S QD 110 BL A LJ 3",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.8196695,
+        "longitude": -47.9877092
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "NB ILUMINAÇÃO LTDA - SCLS 312 Bloco C Loja 04",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.8231563,
+        "longitude": -47.9174227
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "SR ACABAMENTOS E MATERIAIS PARA CONSTRUÇÃO LTDA - SHC/SUL CR Quadra 512 Bloco C, Loja 71 - W2 SUL",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.8214858,
+        "longitude": -47.9179092
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "CARREFOUR COMERCIO E INDUSTRIA LTDA - Scee Sul Lote B",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.830608,
+        "longitude": -47.9552456
+      },
+      {
+        "Região": "Cruzeiro",
+        "Endereço": "SR ACABAMENTOS E MATERIAIS PARA CONSTRUÇÃO LTDA - SAI/SUL Trecho 1, Lts 1010/1040 - Setor Industrial",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.8069815,
+        "longitude": -47.9613518
+      },
+      {
+        "Região": "Cruzeiro",
+        "Endereço": "SARKIS & SARKIS LTDA - SIA QD 5C AE 21 QD 5C LJ 225 E SIA TRECHO 04 LOTES 620, 630 E 640 B",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.8035027,
+        "longitude": -47.9490696
+      },
+      {
+        "Região": "Cruzeiro",
+        "Endereço": "HOMETECK MATERIAIS PARA CONSTRUÇÃO LTDA - S.I.A TRECHO 3 LOTES 425, 435, 445 E 45",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.8031548,
+        "longitude": -47.9552992
+      },
+      {
+        "Região": "Cruzeiro",
+        "Endereço": "MAKRO ATACADISTA S.A - Sia Trecho 14 Lote 05, S/N",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.7910142,
+        "longitude": -47.9460104
+      },
+      {
+        "Região": "Ceilândia",
+        "Endereço": "COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO - QNM 11 LOTE 6 S/N - MEZANINO",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.8036412,
+        "longitude": -48.0243251
+      },
+      {
+        "Região": "Ceilândia",
+        "Endereço": "DOMINGUES E RODRIGUES M C LTDA - EQNM 3/5 BLOCO E LOJAS 1/5",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.824155,
+        "longitude": -48.1075142
+      },
+      {
+        "Região": "Ceilândia",
+        "Endereço": "ITAJUBA COM. DE MAT. P/ CONSTR. LTDA - EQNN 19/21 BLOCO B LOJA 01,02,03",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.8146368,
+        "longitude": -48.1190449
+      },
+      {
+        "Região": "Núcleo Rural Córrego Pulador",
+        "Endereço": "COLUNAS MATERIAIS PARA CONSTRUÇÃO LTDA - AREA ESPECIAL 03 CONJUNTO A LOTE 2",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.6823886,
+        "longitude": -48.1903089
+      },
+      {
+        "Região": "Planaltina",
+        "Endereço": "PARAFUSOS E CIA ELETRICA LTDA - Quadra 03, CJ- H, LOTE 60",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -14.4095261,
+        "longitude": -51.31668
+      },
+      {
+        "Região": "Planaltina",
+        "Endereço": "WA FERRAGENS LTDA - CSE 02 LOTE 19 LOJA",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.8584812,
+        "longitude": -48.0430461
+      },
+      {
+        "Região": "Taguatinga",
+        "Endereço": "LEROY MERLIN COMPANHIA BRASILEIRA DE BRICOLAGEM - QS 3 - RUA 420 - LOTE 4 - BLOCO B",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.842942,
+        "longitude": -48.0426998
+      },
+      {
+        "Região": "Taguatinga",
+        "Endereço": "ELETRICA NEVES MATERIAIS ELETRICOS LTDA - CSB 07 LOTE 05 LOJAS 4 e 5",
+        "Contato": "",
+        "Empresa": "Reciclus",
+        "latitude": -15.8393857,
+        "longitude": -48.0539301
+      }
+    ]
+  },
+  {
+    "tipo": "Tonner de Impressora",
+    "itens": [
+      {
+        "Região": "Asa Norte",
+        "Endereço": "Rede Primetek - SEPN 511 conj. A",
+        "Telefone": "3022-3250",
+        "Empresa": "E-cycle",
+        "latitude": -15.7556956,
+        "longitude": -47.893193
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "Conserto Minuto - SCN Q5 bl A",
+        "Telefone": "3034-1441",
+        "Empresa": "E-cycle",
+        "latitude": -15.7867689,
+        "longitude": -47.8892251
+      },
+      {
+        "Região": "Asa Sul",
+        "Endereço": "Victória Cartuchos - SCS Q. 2 bl C",
+        "Telefone": "3321-4579",
+        "Empresa": "E-cycle",
+        "latitude": -15.7976764,
+        "longitude": -47.8881495
+      },
+      {
+        "Região": "Guará",
+        "Endereço": "QE 40 RUA 12 LOTE 09 - Polo das Modas",
+        "Telefone": "3301-3584",
+        "Empresa": "Zero Impacto",
+        "latitude": -15.8456334,
+        "longitude": -47.9796025
+      },
+      {
+        "Região": "Guará",
+        "Endereço": "Rede Primetek - SGCV 23, Guará",
+        "Telefone": "3011-7600",
+        "Empresa": "E-cycle",
+        "latitude": -15.8289915,
+        "longitude": -47.9524679
+      },
+      {
+        "Região": "Clientes SAMSUNG",
+        "Endereço": "SCLRN 705 Bloco G Loja 63 - Asa Norte",
+        "Telefone": "",
+        "Empresa": "",
+        "latitude": -15.7733327,
+        "longitude": -47.8889119
+      }
+    ]
+  },
+  {
+    "tipo": "Pilhas e Baterias",
+    "itens": [
+      {
+        "Região": "Águas Claras",
+        "Endereço": "PÃO DE AÇUCAR - QUADRA 206 S/N LOTE 02 LOJA 06",
+        "Telefone": "(61) 3435-9229",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8030228,
+        "longitude": -47.950086
+      },
+      {
+        "Região": "Águas Claras",
+        "Endereço": "CARREFOUR - QUADRA QS 3 RUA 420 - AREAL (ÁGUAS CLARAS)",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8322524,
+        "longitude": -48.0398367
+      },
+      {
+        "Região": "Águas Claras",
+        "Endereço": "WALLMART - SETOR STN CONJUNTO 1",
+        "Telefone": "(61) 3448-3770",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.7340212,
+        "longitude": -47.9059497
+      },
+      {
+        "Região": "Esplanada",
+        "Endereço": "MINISTÉRIO DO MEIO AMBIENTE - ESPLANADA DOS MINISTÉRIOS BLOCO B",
+        "Telefone": "(61) 2028-1909",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.7985942,
+        "longitude": -47.872432
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "CARREFOUR - STN LOTE J",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.7339298,
+        "longitude": -47.8991993
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "CARREFOUR - EQN 512/513 s/n Bloco A",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8908322,
+        "longitude": -47.9371224
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "ATACADÃO ASA NORTE - STN- CONJUNTO H , SN",
+        "Telefone": "(61) 3448-8400",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.7351055,
+        "longitude": -47.9051361
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "EXTRA HIPER - SETOR STN, SN LOTE ASA NORTE",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.735528,
+        "longitude": -47.904602
+      },
+      {
+        "Região": "Asa Norte",
+        "Endereço": "PANANORTE - SCLN,206 BLA LI3/21",
+        "Telefone": "(61) 3347-3435",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.7484829,
+        "longitude": -47.8911071
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "PÃO DE AÇUCAR - SCRS 516 BLOCO A - LOJAS 45 E 46",
+        "Telefone": "(61) 3245-3577",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8278305,
+        "longitude": -47.9272981
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "PÃO DE AÇUCAR - EQN 508/509 BLOCO A",
+        "Telefone": "(61) 3340-0059",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.7630227,
+        "longitude": -47.890361
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "PÃO DE AÇUCAR - EQN 404/405 S/N BLOCO A",
+        "Telefone": "(61) 3447-1030",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.7730486,
+        "longitude": -47.8753046
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "PÃO DE AÇUCAR - SHIN QI02 AREA ESPECIAL S/N BL A",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8030228,
+        "longitude": -47.9493388
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "CARREFOUR - EQS 504/505",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.7882757,
+        "longitude": -47.895106
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "CARREFOUR - EQS 402/403",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.814069,
+        "longitude": -47.8987213
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "CARREFOUR - SHIS QI 25 LOTE \"G\"",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8359291,
+        "longitude": -47.8344082
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "CARREFOUR - SHIS QI 13, Bloco J",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8392754,
+        "longitude": -47.8553419
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "CARREFOUR - SQS 311",
+        "Telefone": "(61) 3224-2743",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8026638,
+        "longitude": -47.9198927
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "PÃO DE AÇUCAR - SQS 304 BLOCO A",
+        "Telefone": "(61) 3224-2743",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8138332,
+        "longitude": -47.8963543
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "PÃO DE AÇUCAR - SHCS 308/309 S/N BLOCO A",
+        "Telefone": "(61) 3244-0511",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8208715,
+        "longitude": -47.8981619
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "PÃO DE AÇUCAR - EQS 405/406/407 BLOCO A",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8030228,
+        "longitude": -47.9493388
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "PHILLIPS - CLS 211 BLOCO C, 33",
+        "Telefone": "(61) 3445-1991",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8271753,
+        "longitude": -47.9101552
+      },
+      {
+        "Região": "Brasília",
+        "Endereço": "PÃO DE AÇUCAR - QI5 GILBERTO SALOMÃO",
+        "Telefone": "3248-3777",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8434739,
+        "longitude": -47.885813
+      },
+      {
+        "Região": "Ceilândia",
+        "Endereço": "ASSAÍ - QUADRA QNM 11, LOTE 6 MEZANINO - CEILÂNDIA SUL",
+        "Telefone": "(61) 3372-8112",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8208914,
+        "longitude": -48.1010691
+      },
+      {
+        "Região": "Ceilândia",
+        "Endereço": "EXTRA HIPER - QNM 11, S/N - LOTE E MEZANINO LOJA 01 A 10 - CEILÂNDIA SUL",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.810288,
+        "longitude": -48.1099776
+      },
+      {
+        "Região": "Gama",
+        "Endereço": "PHILLIPS - QUADRA 03 LOTE 03",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8929036,
+        "longitude": -47.9433116
+      },
+      {
+        "Região": "Guará",
+        "Endereço": "MAKRO - S. SUL - QUADRA 07, Nº 100 BHM-1",
+        "Telefone": "(61) 3403-8500",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.7910142,
+        "longitude": -47.9460104
+      },
+      {
+        "Região": "Guará",
+        "Endereço": "ASSAÍ - TRECHO SIA SUL, TRECHO 12, LOTE 105",
+        "Telefone": "(61) 3234-1773",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.7935236,
+        "longitude": -47.9461181
+      },
+      {
+        "Região": "Guará",
+        "Endereço": "CARREFOUR - Scee / Sul Lote B SGCV",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.830608,
+        "longitude": -47.9552456
+      },
+      {
+        "Região": "Guará",
+        "Endereço": "EXTRA HIPER - TRECHO SAI LOTE 105 TRECHO 12",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.7941606,
+        "longitude": -47.9464052
+      },
+      {
+        "Região": "Guará",
+        "Endereço": "EXTRA HIPER - SMAS, S/N,TRECHO 3 CONJ 5 GUARÁ",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8344063,
+        "longitude": -47.9518285
+      },
+      {
+        "Região": "Guará",
+        "Endereço": "PÃO DE AÇUCAR - SRIA - AREA ESPECIAL K N.02",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8163255,
+        "longitude": -47.9810797
+      },
+      {
+        "Região": "Sudoeste",
+        "Endereço": "CCSW 06 LOJAS 4/5 COMERCIO",
+        "Telefone": "(61) 3341-2900",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.7954101,
+        "longitude": -47.9291656
+      },
+      {
+        "Região": "Taguatinga",
+        "Endereço": "MAKRO - S. SUL, QD. 7 Nº 100 BHM - 1",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -24.3589957,
+        "longitude": -58.3882359
+      },
+      {
+        "Região": "Taguatinga",
+        "Endereço": "CARREFOUR - SETOR AUXILIAR DE GARAGENS OFICINAS E COMÉRCIO AFINAS TAGUATINGA NORTE (TAGUATINGA)",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8322524,
+        "longitude": -48.0398367
+      },
+      {
+        "Região": "Taguatinga",
+        "Endereço": "ARACADÃO - QNL 01 SETOR L NORTE",
+        "Telefone": "",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8330163,
+        "longitude": -48.081211
+      },
+      {
+        "Região": "Taguatinga",
+        "Endereço": "PHILLIPS - QNE 34 LOJA 01",
+        "Telefone": "(61) 3354-9615",
+        "Empresa": "ABINEE - GMC",
+        "latitude": -15.8066125,
+        "longitude": -48.0696351
+      }
+    ]
+  }
+]
