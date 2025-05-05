@@ -15,6 +15,23 @@ const emojiMap = {
 };
 const defaultEmoji = "📦";
 
+// Função para calcular distância (em km) entre dois pontos lat/lng
+function getDistanceFromLatLonInKm(lat1, lon1, lat2, lon2) {
+  function deg2rad(deg) { return deg * (Math.PI/180); }
+  const R = 6371; // Raio da Terra em km
+  const dLat = deg2rad(lat2-lat1);
+  const dLon = deg2rad(lon2-lon1); 
+  const a = 
+    Math.sin(dLat/2) * Math.sin(dLat/2) +
+    Math.cos(deg2rad(lat1)) * Math.cos(deg2rad(lat2)) * 
+    Math.sin(dLon/2) * Math.sin(dLon/2)
+    ; 
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a)); 
+  const d = R * c; // Distância em km
+  return d;
+}
+const RADIUS_KM = 50; // Raio de busca em km
+
 function EmojiMarker({ position, emoji, children }) {
   const icon = new L.DivIcon({
     className: '',
@@ -43,7 +60,7 @@ function MapaColeta() {
   const mapRef = useRef();
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}pontos.json`)
+    fetch('/coeletronico/pontos.json')
       .then(res => res.json())
       .then(data => {
         setRawData(data);
@@ -83,7 +100,21 @@ function MapaColeta() {
     }
   }, [showModal]);
 
-  const pontosFiltrados = pontos.filter(pto => filtros[pto.tipo]);
+  // Só mostra marcadores dentro do raio da localização do usuário e dos filtros ativos
+  const pontosFiltrados = pontos.filter(pto =>
+    filtros[pto.tipo] &&
+    userLocation &&
+    getDistanceFromLatLonInKm(pto.latitude, pto.longitude, userLocation[0], userLocation[1]) <= RADIUS_KM
+  );
+
+  // Função para mostrar a distância de cada ponto para o usuário
+  const getDistanceLabel = (ponto) => {
+    if (!userLocation) return '';
+    const dist = getDistanceFromLatLonInKm(ponto.latitude, ponto.longitude, userLocation[0], userLocation[1]);
+    return dist < 1
+      ? `${(dist*1000).toFixed(0)} m`
+      : `${dist.toFixed(2)} km`;
+  };
 
   const flyToPoint = (lat, lng) => {
     const map = mapRef.current;
@@ -115,7 +146,7 @@ function MapaColeta() {
       )}
       {/* Sidebar */}
       <div className="sidebar-pontos" style={{ height: '100%', boxSizing: 'border-box', minWidth: 0 }}>
-        <h3>Pontos Visíveis</h3>
+        <h3>Pontos Próximos (<span style={{color:"#249f69"}}>{RADIUS_KM}km</span>)</h3>
         <button
           onClick={() => setShowModal(true)}
           style={{
@@ -145,6 +176,9 @@ function MapaColeta() {
             <div style={{ display: "flex", justifyContent: "space-between", alignItems: 'center' }}>
               <span style={{ fontWeight: 600, fontSize: 16 }}>
                 {emojiMap[ponto.tipo] || defaultEmoji} {ponto.Empresa || "Desconhecida"}
+                <span style={{ marginLeft: 10, fontSize: 13, color: "#888" }}>
+                  {getDistanceLabel(ponto)}
+                </span>
               </span>
               <span className="tipo" style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
                 <span>{emojiMap[ponto.tipo] || defaultEmoji}</span>
@@ -161,7 +195,7 @@ function MapaColeta() {
           </div>
         ))}
         {pontosFiltrados.length === 0 &&
-          <div style={{ color: "#666", marginTop: 30 }}>Nenhum ponto visível com estes filtros.</div>
+          <div style={{ color: "#666", marginTop: 30 }}>Nenhum ponto visível com estes filtros ou próximos de você.</div>
         }
       </div>
 
@@ -169,7 +203,7 @@ function MapaColeta() {
       <div style={{ flex: 1, position: "relative", minWidth: 0, minHeight: 0 }}>
         {/* A barra de filtros foi movida para o Modal */}
         {userLocation && <MapContainer
-          center={[0, 0]}
+          center={userLocation}
           zoom={12}
           ref={el => { if (el) mapRef.current = el; }}
           style={{ height: "100%", width: "100%", zIndex: 10, minHeight: 0, minWidth: 0 }}
@@ -195,7 +229,8 @@ function MapaColeta() {
                 {ponto.Endereço}<br />
                 {ponto.Contato && <>📞 {ponto.Contato}<br /></>}
                 <span>Tipo: {ponto.tipo}</span><br />
-                📍 {ponto.Região}
+                📍 {ponto.Região}<br />
+                <span style={{color:'#249f69', fontWeight:500}}>{getDistanceLabel(ponto)} de você</span>
               </Popup>
             </EmojiMarker>
           ))}
